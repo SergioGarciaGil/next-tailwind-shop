@@ -13,6 +13,9 @@
             ],
             "@layout/*": [
                 "layout/*"
+            ],
+            "@pages/*": [
+                "pages/*"
             ]
         }
     }
